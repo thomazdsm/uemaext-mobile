@@ -1,0 +1,7 @@
+{
+  "name": "uemaext",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
